@@ -1,0 +1,23 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project state
+.Rproj.user/
+
+# Local environment variables and secrets
+.Renviron
+
+# shinyapps.io deployment metadata
+rsconnect/
+
+# Duplicate source snapshots; ui.R and server.R are authoritative
+ui8.txt
+server8.txt
+
+# Common temporary files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
